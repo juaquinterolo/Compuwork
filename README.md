@@ -1,6 +1,6 @@
-## CompuWork
+# CompuWork
 
-# Descripción del Proyecto
+## Descripción del Proyecto
 
 El sistema que se desarrollará para CompuWork tiene como objetivo principal:
 
